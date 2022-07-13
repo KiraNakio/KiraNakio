@@ -1,0 +1,6 @@
+- Name: Kira Nakio
+- 👀 I’m interested in Pentesting, Hacking, Artificial Intellegence, Game development.
+- 📝 I’m currently learning react.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 How to reach me is through any of the socials linked here. -> https://linkfly.to/407106xQxja
+- 🧠 What I know is. -> Python, JavaScript, C++, etc. 
